@@ -18,7 +18,7 @@ Installation of wordpress create folders needed,which can be viewed in file mana
 <a href="https://github.com/Loukya-1526/project_45sportsarena/assets/167448812/9cc01a63-a721-410d-9feb-ccc62c1f798d">
 Once wordpress is installed,it gives a url for wordpress admin and user.
 Admin Url for wordpress <a href="https://sportsarena45.infinityfreeapp.com/wp-admin">Admin sportsArena45</a>
-<a href="https://github.com/Loukya-1526/project_45sportsarena/assets/167448812/59e9eacb-f075-4fc5-94a1-175c4326db1f">
+<img src="https://github.com/Loukya-1526/project_45sportsarena/assets/167448812/59e9eacb-f075-4fc5-94a1-175c4326db1f">
 On logging the administrator can customise the site as needed.
 
 
